@@ -8,3 +8,5 @@ dfdgdgfdgfgdg
 jgkldfjgkfdhgkfdhgjfdkhgjfdk
 
 git tracks changes
+
+Creating a new branch is dev
